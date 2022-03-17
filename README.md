@@ -78,8 +78,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda for the January 13 Support Meeting](https://make.wordpress.org/support/2022/01/agenda-for-the-january-13-support-meeting/)
 - [Summary: January 6, 2022 Support Meeting](https://make.wordpress.org/support/2022/01/summary-january-6-2022-support-meeting/)
 - [Agenda for the January 6, 2022 Support Team meeting](https://make.wordpress.org/support/2022/01/agenda-for-the-january-6-2022-support-team-meeting/)
-- [No formal meeting for Support on December 23](https://make.wordpress.org/support/2021/12/no-formal-meeting-for-support-on-december-23/)
-- [Agenda for the December 16 Support Team Meeting](https://make.wordpress.org/support/2021/12/agenda-for-the-december-16-support-team-meeting/)
 <!-- SUPPORT:END -->
 
 ## Documentation
