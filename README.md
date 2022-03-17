@@ -415,15 +415,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 5.8.3 Security Release](https://wordpress.org/news/2022/01/wordpress-5-8-3-security-release/)
 - [The Month in WordPress – December 2021](https://wordpress.org/news/2022/01/the-month-in-wordpress-december-2021/)
 - [WordPress 5.9 RC 1](https://wordpress.org/news/2022/01/wordpress-5-9-rc-1/)
-- [People of WordPress: Collins Agbonghama](https://wordpress.org/news/2021/12/people-of-wordpress-collins-agbonghama/)
-- [WordPress 5.9 Beta 4](https://wordpress.org/news/2021/12/wordpress-5-9-beta-4/)
-- [WP Briefing: Episode 22: A Carol of Thanks](https://wordpress.org/news/2021/12/episode-22-a-carol-of-thanks/)
-- [Highlights from State of the Word 2021](https://wordpress.org/news/2021/12/highlights-from-state-of-the-word-2021/)
-- [WordPress 5.9 Beta 3](https://wordpress.org/news/2021/12/wordpress-5-9-beta-3/)
-- [WordPress 5.9 Beta 2](https://wordpress.org/news/2021/12/wordpress-5-9-beta-2/)
-- [The Month in WordPress – November 2021](https://wordpress.org/news/2021/12/month-in-wordpress-november-2021/)
-- [WordPress 5.9 Beta 1](https://wordpress.org/news/2021/11/wordpress-5-9-beta-1/)
-- [People of WordPress: Devin Maeztri](https://wordpress.org/news/2021/11/people-of-wordpress-devin-maeztri/)
 <!-- NEWS:END -->
 
 ## Jobs
