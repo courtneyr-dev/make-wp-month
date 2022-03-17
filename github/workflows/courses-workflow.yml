@@ -1,0 +1,24 @@
+name: Latest Courses post workflow
+on:
+  schedule:     # Runs every 5 minutes
+   - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch:
+
+  
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "COURSES"
+          feed_list: " https://learn.wordpress.org/feed/?post_type=course"
+          max_post_count: 1000
+          item_exec: |
+                 const today = new Date();
+                 if ((post.date.getMonth() !== today.getMonth()) && (post.date.getYear() !== today.getYear())) post = null;
+ 
