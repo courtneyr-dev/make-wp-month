@@ -24,9 +24,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Show and Tell — February 2022](https://make.wordpress.org/design/2022/02/15/show-and-tell-february-2022/)
 - [Design Share](https://make.wordpress.org/design/2022/02/14/design-share/)
 - [X-post: Supporting Black Voices in WordPress](https://make.wordpress.org/design/2022/01/27/xpost-supporting-black-voices-in-wordpress/)
-- [Redesign of Openverse](https://make.wordpress.org/design/2021/12/17/redesign-of-openverse/)
-- [About WordPress 5.9](https://make.wordpress.org/design/2021/11/30/about-wordpress-5-9/)
-- [Show and Tell for Nov. 2021](https://make.wordpress.org/design/2021/11/16/show-and-tell-for-nov-2021/)
 <!-- DESIGN:END -->
 
 ## Mobile
