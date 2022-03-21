@@ -326,6 +326,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Tide
 <!-- TIDE:START -->
+- [CANCELLED Tide Chat: March 29th](https://make.wordpress.org/tide/2022/03/21/cancelled-tide-chat-march-29th/)
 - [CANCELLED Tide Chat: March 1st](https://make.wordpress.org/tide/2022/02/27/cancelled-tide-chat-march-1st/)
 - [Tide Chat Agenda: February 15th](https://make.wordpress.org/tide/2022/02/14/tide-chat-agenda-february-15th/)
 - [CANCELLED Tide Chat: February 1st](https://make.wordpress.org/tide/2022/01/31/cancelled-tide-chat-february-1st/)
