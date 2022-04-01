@@ -314,7 +314,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## CLI
 <!-- CLI:START -->
 - [WP-CLI v2.6.0 Release Notes](https://make.wordpress.org/cli/2022/01/26/wp-cli-v2-6-0-release-notes/)
-- [New Premier Sponsor added: Cloudways](https://make.wordpress.org/cli/2021/03/12/new-premier-sponsor-added-cloudways/)
 <!-- CLI:END -->
 
 ## Hosting
