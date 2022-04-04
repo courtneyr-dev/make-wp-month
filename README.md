@@ -382,6 +382,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Clear codex cache &amp; lower cache TTL?](https://make.wordpress.org/systems/2022/04/04/clear-codex-cache-lower-cache-ttl/)
 - [Enable sub-sites for developer.wordpress.org](https://make.wordpress.org/systems/2022/03/31/enable-sub-sites-for-developer-wordpress-org/)
 - [Update getinvolved@ email forwarder](https://make.wordpress.org/systems/2022/03/22/update-getinvolved-email-forwarder/)
 - [CORS headers for s.w.org](https://make.wordpress.org/systems/2022/02/22/cors-headers-for-s-w-org/)
