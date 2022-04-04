@@ -391,6 +391,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WP Briefing: Episode 28: Coming to a WordCamp Near You: A Return to In-Person WP Events](https://wordpress.org/news/2022/04/episode-28-coming-to-a-wordcamp-near-you-a-return-to-in-person-wp-events/)
 - [People of WordPress: Juan Aldasoro](https://wordpress.org/news/2022/03/people-of-wordpress-juanfra-aldasoro/)
 - [Get Creative with the All-New Pattern Creator](https://wordpress.org/news/2022/03/get-creative-with-the-all-new-pattern-creator/)
 - [WP Briefing: Episode 27: Is WordPress Made for Me?](https://wordpress.org/news/2022/03/episode-27-is-wordpress-made-for-me/)
