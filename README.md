@@ -391,6 +391,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 5.9.3 Maintenance Release](https://wordpress.org/news/2022/04/wordpress-5-9-3-maintenance-release/)
 - [The Month in WordPress – March 2022](https://wordpress.org/news/2022/04/the-month-in-wordpress-march-2022/)
 - [WP Briefing: Episode 28: Coming to a WordCamp Near You: A Return to In-Person WP Events](https://wordpress.org/news/2022/04/episode-28-coming-to-a-wordcamp-near-you-a-return-to-in-person-wp-events/)
 - [People of WordPress: Juan Aldasoro](https://wordpress.org/news/2022/03/people-of-wordpress-juanfra-aldasoro/)
