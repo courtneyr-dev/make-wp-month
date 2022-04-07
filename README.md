@@ -252,6 +252,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The Difference between Reusable Blocks, Block Patterns, Templates and Template Parts](https://wordpress.tv/2022/04/07/the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts/)
 - [WordPress 6.0 Product Walk-Through](https://wordpress.tv/2022/04/06/wordpress-6-0-product-walk-through/)
 - [Milana Cap, Birgit Pauli-Haack, Courtney Engle Robertson, Femy Praseeth, Akira Tachibana: WordPress release 6.0 Trac ticket triage for docs](https://wordpress.tv/2022/03/30/milana-cap-birgit-pauli-haack-courtney-engle-robertson-femy-praseeth-akira-tachibana-wordpress-release-6-0-trac-ticket-triage-for-docs/)
 - [Displaying the Post Comments Block in Block Themes](https://wordpress.tv/2022/03/29/displaying-the-post-comments-block-in-block-themes/)
