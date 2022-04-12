@@ -161,6 +161,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
+- [Gutenberg Landing Page: Kick-Off](https://make.wordpress.org/meta/2022/04/12/gutenberg-landing-page-kick-off/)
 - [In last week’s Meta meeting,…](https://make.wordpress.org/meta/2022/03/18/in-last-weeks-meta-meeting/)
 - [Coming soon: Block Pattern Directory Submissions](https://make.wordpress.org/meta/2022/03/16/coming-soon-block-pattern-directory-submissions/)
 - [X-post: First review on the new Sitemap for HelpHub](https://make.wordpress.org/meta/2022/03/10/xpost-first-review-on-the-new-sitemap-for-helphub-or-documentation/)
