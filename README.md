@@ -255,6 +255,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Nick Diego: Builder Basics – Headers and Footers in Full Site Editing](https://wordpress.tv/2022/04/13/nick-diego-builder-basics-headers-and-footers-in-full-site-editing/)
 - [Submitting Block Patterns to the Directory](https://wordpress.tv/2022/04/13/submitting-block-patterns-to-the-directory/)
 - [The difference between reusable blocks, block patterns, templates and template parts](https://wordpress.tv/2022/04/07/the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts-2/)
 - [Creating A Sidebar For Your Posts Using The Full Site Editing Blank Template](https://wordpress.tv/2022/04/07/creating-a-sidebar-for-your-posts-using-the-full-site-editing-blank-template/)
