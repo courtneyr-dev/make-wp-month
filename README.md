@@ -436,6 +436,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-30/)
 - [WordPress Updates Nerd](https://jobs.wordpress.net/job/wordpress-updates-nerd-2/)
 - [WordPress Site Speed Nerd](https://jobs.wordpress.net/job/wordpress-site-speed-nerd-2/)
-- [WordPress Expert](https://jobs.wordpress.net/job/wordpress-expert-33/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-752/)
+- [Fashontech Full Stack WP Developer](https://jobs.wordpress.net/job/fashontech-full-stack-wp-developer/)
 <!-- JOBS:END -->
