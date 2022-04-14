@@ -255,6 +255,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Podcasting with WordPress](https://wordpress.tv/2022/04/13/podcasting-with-wordpress/)
 - [Nick Diego: Builder Basics – Headers and Footers in Full Site Editing](https://wordpress.tv/2022/04/13/nick-diego-builder-basics-headers-and-footers-in-full-site-editing/)
 - [Submitting Block Patterns to the Directory](https://wordpress.tv/2022/04/13/submitting-block-patterns-to-the-directory/)
 - [The difference between reusable blocks, block patterns, templates and template parts](https://wordpress.tv/2022/04/07/the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts-2/)
@@ -304,7 +305,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Rafa Poveda: La comunidad más mejor del mundo](https://wordpress.tv/2022/01/05/rafa-poveda-la-comunidad-mas-mejor-del-mundo/)
 - [Nilo Velez y Miguel Angel Terron: Nuestra historia de amor con WordPress](https://wordpress.tv/2022/01/05/nilo-velez-y-miguel-angel-terron-nuestra-historia-de-amor-con-wordpress/)
 - [Comunidad WordPress España: El autobus que nos paso por encima](https://wordpress.tv/2022/01/05/comunidad-wordpress-espana-el-autobus-que-nos-paso-por-encima/)
-- [Rocio Valdivia, Luis Herranz y Hector Prieto – Y ahora qué hacemos](https://wordpress.tv/2022/01/05/rocio-valdivia-luis-herranz-y-hector-prieto-y-ahora-que-hacemos/)
 <!-- WPTV:END -->
 
 ## Marketing
