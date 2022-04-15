@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [Featured/Beta Plugins Now Limit Changes](https://make.wordpress.org/plugins/2022/04/15/featured-beta-plugins-now-limit-changes/)
 - [Journal Entry: Removal of the Zamir Plugin](https://make.wordpress.org/plugins/2022/03/23/journal-entry-removal-of-the-zamir-plugin/)
 <!-- PLUGINS:END -->
 
