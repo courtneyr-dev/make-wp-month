@@ -404,6 +404,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WP Briefing: Episode 29: How to Make a WordPress Blog](https://wordpress.org/news/2022/04/episode-29-how-to-make-a-wordpress-blog/)
 - [WordPress 6.0 Beta 1](https://wordpress.org/news/2022/04/wordpress-6-0-beta-1/)
 - [WordPress 5.9.3 Maintenance Release](https://wordpress.org/news/2022/04/wordpress-5-9-3-maintenance-release/)
 - [The Month in WordPress – March 2022](https://wordpress.org/news/2022/04/the-month-in-wordpress-march-2022/)
