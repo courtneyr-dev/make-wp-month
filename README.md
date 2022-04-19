@@ -256,6 +256,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Adding Custom CSS to Your WordPress Site](https://wordpress.tv/2022/04/18/adding-custom-css-to-your-wordpress-site/)
 - [Fearless Theme Switching](https://wordpress.tv/2022/04/15/fearless-theme-switching/)
 - [Testing WordPress 6.0: Authoring an Author Template](https://wordpress.tv/2022/04/15/testing-wordpress-6-0-authoring-an-author-template/)
 - [Podcasting with WordPress](https://wordpress.tv/2022/04/13/podcasting-with-wordpress/)
@@ -305,7 +306,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to use the List View](https://wordpress.tv/2022/01/10/how-to-use-the-list-view/)
 - [How to Style Your Site with Global Styles](https://wordpress.tv/2022/01/10/how-to-style-your-site-with-global-styles/)
 - [Organizing your Media Library](https://wordpress.tv/2022/01/09/organizing-your-media-library-2/)
-- [Rafa Poveda: La comunidad más mejor del mundo](https://wordpress.tv/2022/01/05/rafa-poveda-la-comunidad-mas-mejor-del-mundo/)
 <!-- WPTV:END -->
 
 ## Marketing
