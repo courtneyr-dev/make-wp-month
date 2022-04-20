@@ -259,6 +259,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Finding Images Using Openverse](https://wordpress.tv/2022/04/20/finding-images-using-openverse/)
+- [Understanding the Page Editor vs. Site Editor](https://wordpress.tv/2022/04/20/understanding-the-page-editor-vs-site-editor/)
 - [No-Code Techniques to Showcase Your Images on Any Device](https://wordpress.tv/2022/04/20/no-code-techniques-to-showcase-your-images-on-any-device/)
 - [Creating a Magazine Layout with the Block Editor](https://wordpress.tv/2022/04/19/creating-a-magazine-layout-with-the-block-editor/)
 - [Adding Custom CSS to Your WordPress Site](https://wordpress.tv/2022/04/18/adding-custom-css-to-your-wordpress-site/)
@@ -307,8 +309,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Anne McCarthy: Exploring WordPress 5.9](https://wordpress.tv/2022/02/03/anne-mccarthy-exploring-wordpress-5-9/)
 - [Piccia Neri: Diseño para convertir más: Las personas siempre en primer lugar](https://wordpress.tv/2022/02/01/piccia-neri-diseno-para-convertir-mas-las-personas-siempre-en-primer-lugar/)
 - [Clausura WordCamp Nicaragua 2021](https://wordpress.tv/2022/01/26/clausura-wordcamp-nicaragua-2021/)
-- [How to Create Low-Code Block Patterns](https://wordpress.tv/2022/01/24/how-to-create-low-code-block-patterns/)
-- [How to use the List View](https://wordpress.tv/2022/01/10/how-to-use-the-list-view/)
 <!-- WPTV:END -->
 
 ## Marketing
