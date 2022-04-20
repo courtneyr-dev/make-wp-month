@@ -259,6 +259,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [No-Code Techniques to Showcase Your Images on Any Device](https://wordpress.tv/2022/04/20/no-code-techniques-to-showcase-your-images-on-any-device/)
 - [Creating a Magazine Layout with the Block Editor](https://wordpress.tv/2022/04/19/creating-a-magazine-layout-with-the-block-editor/)
 - [Adding Custom CSS to Your WordPress Site](https://wordpress.tv/2022/04/18/adding-custom-css-to-your-wordpress-site/)
 - [Fearless Theme Switching](https://wordpress.tv/2022/04/15/fearless-theme-switching/)
@@ -308,7 +309,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Clausura WordCamp Nicaragua 2021](https://wordpress.tv/2022/01/26/clausura-wordcamp-nicaragua-2021/)
 - [How to Create Low-Code Block Patterns](https://wordpress.tv/2022/01/24/how-to-create-low-code-block-patterns/)
 - [How to use the List View](https://wordpress.tv/2022/01/10/how-to-use-the-list-view/)
-- [How to Style Your Site with Global Styles](https://wordpress.tv/2022/01/10/how-to-style-your-site-with-global-styles/)
 <!-- WPTV:END -->
 
 ## Marketing
