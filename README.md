@@ -259,6 +259,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using Block Patterns](https://wordpress.tv/2022/04/21/using-block-patterns-2/)
 - [Finding Images Using the WordPress Photo Directory](https://wordpress.tv/2022/04/20/finding-images-using-the-wordpress-photo-directory/)
 - [Finding Images Using Openverse](https://wordpress.tv/2022/04/20/finding-images-using-openverse/)
 - [Understanding the Page Editor vs. Site Editor](https://wordpress.tv/2022/04/20/understanding-the-page-editor-vs-site-editor/)
@@ -308,7 +309,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Roxy Kohilakis: Template Parts](https://wordpress.tv/2022/02/07/roxy-kohilakis-template-parts/)
 - [Maciek Palmowski: Static WordPress – How To Make WordPress Faster And More Secure](https://wordpress.tv/2022/02/06/maciek-palmowski-static-wordpress-how-to-make-wordpress-faster-and-more-secure-2/)
 - [Anne McCarthy: Exploring WordPress 5.9](https://wordpress.tv/2022/02/03/anne-mccarthy-exploring-wordpress-5-9/)
-- [Piccia Neri: Diseño para convertir más: Las personas siempre en primer lugar](https://wordpress.tv/2022/02/01/piccia-neri-diseno-para-convertir-mas-las-personas-siempre-en-primer-lugar/)
 <!-- WPTV:END -->
 
 ## Marketing
