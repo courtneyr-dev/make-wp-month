@@ -205,6 +205,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Finding Images Using the WordPress Photo Directory](https://learn.wordpress.org/workshop/finding-images-using-the-wordpress-photo-directory/)
+- [Finding Images Using Openverse](https://learn.wordpress.org/workshop/finding-images-using-openverse/)
 - [Submitting Block Patterns to the Directory](https://learn.wordpress.org/workshop/submitting-block-patterns-to-the-directory/)
 - [The Difference Between Reusable Blocks, Block Patterns, Templates &amp; Template Parts](https://learn.wordpress.org/workshop/the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts/)
 - [Displaying the Post Comments block in Block Themes](https://learn.wordpress.org/workshop/displaying-the-post-comments-block-in-block-themes/)
@@ -213,8 +215,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Adding a Site Tagline to Block Themes](https://learn.wordpress.org/workshop/adding-a-site-tagline-to-block-themes/)
 - [Manage Settings: Privacy](https://learn.wordpress.org/workshop/manage-settings-privacy/)
 - [Managing Settings: Permalinks](https://learn.wordpress.org/workshop/managing-settings-permalinks/)
-- [Intro to the Site Editor and Template Editor](https://learn.wordpress.org/workshop/intro-to-the-site-editor-and-template-editor/)
-- [Building Sidebars With the Site Editor](https://learn.wordpress.org/workshop/building-sidebars-with-the-site-editor/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
