@@ -259,6 +259,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Nahuai Badiola: Novedades de WordPress, descubre cómo ahorrar tiempo](https://wordpress.tv/2022/04/24/nahuai-badiola-novedades-wordpress-descubre-como-ahorrar-tiempo/)
 - [Using Block Patterns](https://wordpress.tv/2022/04/21/using-block-patterns-2/)
 - [Finding Images Using the WordPress Photo Directory](https://wordpress.tv/2022/04/20/finding-images-using-the-wordpress-photo-directory/)
 - [Finding Images Using Openverse](https://wordpress.tv/2022/04/20/finding-images-using-openverse/)
@@ -308,7 +309,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [How to Create a Menu with the Navigation Block](https://wordpress.tv/2022/02/08/how-to-create-a-menu-with-the-navigation-block/)
 - [Roxy Kohilakis: Template Parts](https://wordpress.tv/2022/02/07/roxy-kohilakis-template-parts/)
 - [Maciek Palmowski: Static WordPress – How To Make WordPress Faster And More Secure](https://wordpress.tv/2022/02/06/maciek-palmowski-static-wordpress-how-to-make-wordpress-faster-and-more-secure-2/)
-- [Anne McCarthy: Exploring WordPress 5.9](https://wordpress.tv/2022/02/03/anne-mccarthy-exploring-wordpress-5-9/)
 <!-- WPTV:END -->
 
 ## Marketing
