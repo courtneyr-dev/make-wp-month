@@ -438,6 +438,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Website Developer](https://jobs.wordpress.net/job/website-developer-26/)
+- [Web Developer](https://jobs.wordpress.net/job/web-developer-193/)
 - [Small Bugfixing Woocomerce / Gerneratepress](https://jobs.wordpress.net/job/small-bugfixing-woocomerce-gerneratepress/)
 - [Paid Internship](https://jobs.wordpress.net/job/paid-internship/)
 - [Freelance web developer ongoing basis](https://jobs.wordpress.net/job/freelance-web-developer-ongoing-basis/)
@@ -446,6 +448,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Software architect](https://jobs.wordpress.net/job/software-architect/)
 - [Senior JavaScript developer](https://jobs.wordpress.net/job/senior-javascript-developer-2/)
 - [Senior developer](https://jobs.wordpress.net/job/senior-developer-8/)
-- [React developer](https://jobs.wordpress.net/job/react-developer-3/)
-- [WordPress developer](https://jobs.wordpress.net/job/wordpress-developer-757/)
 <!-- JOBS:END -->
