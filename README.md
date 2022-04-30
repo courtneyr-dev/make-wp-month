@@ -411,6 +411,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [People of WordPress: Meher Bala](https://wordpress.org/news/2022/04/people-of-wordpress-meher-bala/)
 - [WordPress 6.0 Beta 3](https://wordpress.org/news/2022/04/wordpress-6-0-beta-3/)
 - [WordPress 6.0 Beta 2](https://wordpress.org/news/2022/04/wordpress-6-0-beta-2/)
 - [WP Briefing: Episode 29: How to Make a WordPress Blog](https://wordpress.org/news/2022/04/episode-29-how-to-make-a-wordpress-blog/)
