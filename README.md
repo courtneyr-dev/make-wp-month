@@ -262,6 +262,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Creating a Restaurant Website with the Block Editor](https://wordpress.tv/2022/05/05/creating-a-restaurant-website-with-the-block-editor/)
 - [Choosing and Installing a Plugin](https://wordpress.tv/2022/05/05/choosing-and-installing-a-plugin/)
 - [Testing WordPress Together: New Interactivity Features for Recipe Websites](https://wordpress.tv/2022/05/02/testing-wordpress-together-new-interactivity-features-for-recipe-websites/)
 - [Sarah Snow: How to Make a WordPress Blog &lpar;2022 Edition&rpar;](https://wordpress.tv/2022/04/28/sarah-snow-how-to-make-a-wordpress-blog-2022-edition/)
@@ -311,7 +312,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What is the difference between WordPress .Com and .Org?](https://wordpress.tv/2022/02/28/what-is-the-difference-between-wordpress-com-and-org/)
 - [Managing Settings: Permalinks](https://wordpress.tv/2022/02/28/managing-settings-permalinks/)
 - [Onlinevortrag: „WP 5.9, Full Site Editing, FSE-Themes «Twenty Twenty-Two» sowie «Aino»”](https://wordpress.tv/2022/02/24/onlinevortrag-wp-5-9-full-site-editing-fse-themes-twenty-twenty-two-sowie-aino/)
-- [Intro to the Site Editor and Template Editor](https://wordpress.tv/2022/02/20/intro-to-the-site-editor-and-template-editor/)
 <!-- WPTV:END -->
 
 ## Marketing
