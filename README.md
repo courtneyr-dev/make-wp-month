@@ -262,6 +262,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Nick Diego: Builder Basics – Working with Templates in Full Site Editing &lpar;Part 1&rpar;](https://wordpress.tv/2022/05/06/nick-diego-builder-basics-working-with-templates-in-full-site-editing-part-1/)
 - [Creating a Restaurant Website with the Block Editor](https://wordpress.tv/2022/05/05/creating-a-restaurant-website-with-the-block-editor/)
 - [Choosing and Installing a Plugin](https://wordpress.tv/2022/05/05/choosing-and-installing-a-plugin/)
 - [Testing WordPress Together: New Interactivity Features for Recipe Websites](https://wordpress.tv/2022/05/02/testing-wordpress-together-new-interactivity-features-for-recipe-websites/)
@@ -311,7 +312,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Milana Cap: Update screenshots in WordPress documentation](https://wordpress.tv/2022/03/04/update-screenshots-in-wordpress-documentation/)
 - [What is the difference between WordPress .Com and .Org?](https://wordpress.tv/2022/02/28/what-is-the-difference-between-wordpress-com-and-org/)
 - [Managing Settings: Permalinks](https://wordpress.tv/2022/02/28/managing-settings-permalinks/)
-- [Onlinevortrag: „WP 5.9, Full Site Editing, FSE-Themes «Twenty Twenty-Two» sowie «Aino»”](https://wordpress.tv/2022/02/24/onlinevortrag-wp-5-9-full-site-editing-fse-themes-twenty-twenty-two-sowie-aino/)
 <!-- WPTV:END -->
 
 ## Marketing
