@@ -220,8 +220,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Courses
 <!-- COURSES:START -->
-- [WordCamp Mentor Training](https://learn.wordpress.org/course/wordcamp-mentor-training/)
-- [WordPress Meetup Organizer Training](https://learn.wordpress.org/course/wordpress-meetup-organizer-training/)
 - [Part 3: Advanced Site Design with Full Site Editing: Site Editor, Templates and Template Parts](https://learn.wordpress.org/course/part-3-advanced-site-design-with-full-site-editing-site-editor-templates-and-template-parts/)
 - [Part 2: Personalized Site Design with Full Site Editing and Theme Blocks](https://learn.wordpress.org/course/part-2-personalized-site-design-with-full-site-editing-and-theme-blocks/)
 <!-- COURSES:END -->
