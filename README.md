@@ -262,6 +262,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [How to Scale WooCommerce](https://wordpress.tv/2022/05/11/how-to-scale-woocommerce/)
 - [Como escolher e instalar plugins](https://wordpress.tv/2022/05/10/como-escolher-e-instalar-plugins/)
 - [Open-Source Principles and WordPress](https://wordpress.tv/2022/05/09/open-source-principles-and-wordpress/)
 - [Showcasing Content with Query Loops](https://wordpress.tv/2022/05/09/showcasing-content-with-query-loops/)
@@ -311,7 +312,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Matteo Spirandelli: Opening Remarks WordPress Meetup Day 2022](https://wordpress.tv/2022/03/17/matteo-spirandelli-opening-remarks-wordpress-meetup-day-2022/)
 - [Adding a Site Tagline to Block Themes](https://wordpress.tv/2022/03/13/adding-a-site-tagline-to-block-themes/)
 - [Nick Diego: Builder Basics – Designing with Columns, Group, and Row Blocks](https://wordpress.tv/2022/03/10/nick-diego-builder-basics-designing-with-columns-group-and-row-blocks/)
-- [Manage Settings: Privacy](https://wordpress.tv/2022/03/07/manage-settings-privacy/)
 <!-- WPTV:END -->
 
 ## Marketing
