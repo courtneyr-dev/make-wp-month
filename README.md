@@ -260,6 +260,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Maximilian Reimann-Gajdusek: WooCommerce SEO – How to optimise your WooCommerce setup](https://wordpress.tv/2022/05/16/maximilian-reimann-gajdusek-woocommerce-seo-how-to-optimise-your-woocommerce-setup/)
 - [Nick Diego: Builder Basics – Working with Templates in Full Site Editing &lpar;Part 2&rpar;](https://wordpress.tv/2022/05/15/nick-diego-builder-basics-working-with-templates-in-full-site-editing-part-2/)
 - [Dominik Liss: Make WordPress hack-proof](https://wordpress.tv/2022/05/15/dominik-liss-make-wordpress-hack-proof/)
 - [Stefan Krajczar: WooCommerce-Setup for the European Market &amp; GDPR](https://wordpress.tv/2022/05/14/stefan-krajczar-woocommerce-setup-for-the-european-market-gdpr/)
@@ -309,7 +310,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Gaia Mazzucco, Andrea Giglio: La centralità dell’individuo all’interno dell’ambito IT](https://wordpress.tv/2022/03/17/gaia-mazzucco-andrea-giglio-la-centralita-dellindividuo-allinterno-dellambito-it/)
 - [Matteo Spirandelli, Alessandro Labianca: Closing Remarks WordPress Meetup Day 2022](https://wordpress.tv/2022/03/17/matteo-spirandelli-alessandro-labianca-closing-remarks-wordpress-meetup-day-2022/)
 - [Alessandro Vercellotti: Novità gdpr 2022](https://wordpress.tv/2022/03/17/alessandro-vercellotti-novita-gdpr-2022/)
-- [Luca Rodino: Il mondo Cookieless che verrà: i cambiamenti in arrivo e come prepararci](https://wordpress.tv/2022/03/17/luca-rodino-il-mondo-cookieless-che-verra-i-cambiamenti-in-arrivo-e-come-prepararci/)
 <!-- WPTV:END -->
 
 ## Marketing
