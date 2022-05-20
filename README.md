@@ -260,6 +260,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using the Navigation Block](https://wordpress.tv/2022/05/19/using-the-navigation-block/)
 - [Getting to know the WordPress Dashboard](https://wordpress.tv/2022/05/19/getting-to-know-the-wordpress-dashboard/)
 - [Bloggers: Own your Content and Share it Everywhere](https://wordpress.tv/2022/05/19/bloggers-own-your-content-and-share-it-everywhere/)
 - [Esther Solà: Actualizaciones en WordPress &lpar;casi&rpar; sin problemas](https://wordpress.tv/2022/05/17/esther-sola-actualizaciones-wordpress-casi-sin-problemas/)
@@ -309,7 +310,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Taking Advantage of Query Loops](https://wordpress.tv/2022/03/25/taking-advantage-of-query-loops/)
 - [WordPress for Writers: Launching your Writer Website](https://wordpress.tv/2022/03/21/wordpress-for-writers-launching-your-writer-website/)
 - [Jorge González: Introducción a las Core Web Vitals](https://wordpress.tv/2022/03/21/jorge-gonzalez-introduccion-core-web-vitals/)
-- [Piermario Orecchioni: Perche dovreste voler bene a Gutenberg e come iniziare a farlo](https://wordpress.tv/2022/03/17/piermario-orecchioni-perche-dovreste-voler-bene-a-gutenberg-e-come-iniziare-a-farlo/)
 <!-- WPTV:END -->
 
 ## Marketing
