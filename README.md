@@ -260,6 +260,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Nestor Angulo de Ugarte: The strange case of malicious favicons](https://wordpress.tv/2022/05/25/nestor-angulo-de-ugarte-the-strange-case-of-malicious-favicons/)
 - [Nick Diego: Builder Basics – Working with Templates in Full Site Editing &lpar;Part 3&rpar;](https://wordpress.tv/2022/05/24/nick-diego-builder-basics-working-with-templates-in-full-site-editing-part-3/)
 - [Daniel Muñoz de Arenillas: ¿WordPress contamina?](https://wordpress.tv/2022/05/24/daniel-munoz-arenillas-wordpress-contamina-como-tener-una-web-respetuosa-planeta-puede/)
 - [WordCamp Irún: Cierre WordCamp Irún 2022](https://wordpress.tv/2022/05/24/wordcamp-irun-cierre-wordcamp-irun-2022/)
@@ -309,7 +310,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Sarah Snow: How to Make a WordPress Blog &lpar;2022 Edition&rpar;](https://wordpress.tv/2022/04/28/sarah-snow-how-to-make-a-wordpress-blog-2022-edition/)
 - [WordPressformance. Cacheando, que es gerundio](https://wordpress.tv/2022/04/28/javier-casares-wordpressformance-cacheando-gerundio/)
 - [WordPress como framework: Lo que no te habían contado](https://wordpress.tv/2022/04/28/fran-torres-wordpress-framework-no-habian-contado/)
-- [Applying Duotone Filters to Change Color Effects](https://wordpress.tv/2022/04/25/applying-duotone-filters-to-change-color-effects/)
 <!-- WPTV:END -->
 
 ## Marketing
