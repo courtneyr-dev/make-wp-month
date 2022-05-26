@@ -349,6 +349,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Tide
 <!-- TIDE:START -->
+- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/tide/2022/05/26/xpost-announcement-incident-response-training/)
 - [CANCELLED Tide Chat: March 29th](https://make.wordpress.org/tide/2022/03/21/cancelled-tide-chat-march-29th/)
 - [CANCELLED Tide Chat: March 1st](https://make.wordpress.org/tide/2022/02/27/cancelled-tide-chat-march-1st/)
 - [Tide Chat Agenda: February 15th](https://make.wordpress.org/tide/2022/02/14/tide-chat-agenda-february-15th/)
