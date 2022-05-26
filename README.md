@@ -338,6 +338,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
+- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/hosting/2022/05/26/xpost-announcement-incident-response-training/)
 - [Get ready for WordPress 6.0](https://make.wordpress.org/hosting/2022/05/04/get-ready-for-wordpress-6-0/)
 - [WordPress Hosting and WebP support](https://make.wordpress.org/hosting/2022/03/30/wordpress-hosting-and-webp-support/)
 - [WordPress 5.9 and PHP 8.0-8.1](https://make.wordpress.org/hosting/2022/01/10/wordpress-5-9-and-php-8-0-8-1/)
