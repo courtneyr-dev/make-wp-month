@@ -254,9 +254,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## TV
 <!-- TV:START -->
+- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/tv/2022/05/26/xpost-announcement-incident-response-training/)
 - [X-post: Proposal: Refurbishing Camera Kits](https://make.wordpress.org/tv/2022/02/16/xpost-proposal-refurbishing-camera-kits/)
 - [X-post: Experiment: A Public Channel for All Team Reps](https://make.wordpress.org/tv/2021/05/25/xpost-experiment-a-public-channel-for-all-team-reps/)
-- [What is ‘Contributor Day’?](https://make.wordpress.org/tv/2020/05/27/what-is-contributor-day/)
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
