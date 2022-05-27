@@ -261,6 +261,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Matteo Enna: I was a shy guy and I didn’t speak English, but then I discovered WordCamps!](https://wordpress.tv/2022/05/27/matteo-enna-i-was-a-shy-guy-and-i-didnt-speak-english-but-then-i-discovered-wordcamps/)
 - [Managing Updates](https://wordpress.tv/2022/05/26/managing-updates/)
 - [Design With Me: Create a Simple Website For Your Small Business](https://wordpress.tv/2022/05/25/design-with-me-create-a-simple-website-for-your-small-business/)
 - [Nestor Angulo de Ugarte: The strange case of malicious favicons](https://wordpress.tv/2022/05/25/nestor-angulo-de-ugarte-the-strange-case-of-malicious-favicons/)
@@ -310,7 +311,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating a Restaurant Website with the Block Editor](https://wordpress.tv/2022/05/05/creating-a-restaurant-website-with-the-block-editor/)
 - [Choosing and Installing a Plugin](https://wordpress.tv/2022/05/05/choosing-and-installing-a-plugin/)
 - [Testing WordPress Together: New Interactivity Features for Recipe Websites](https://wordpress.tv/2022/05/02/testing-wordpress-together-new-interactivity-features-for-recipe-websites/)
-- [Sarah Snow: How to Make a WordPress Blog &lpar;2022 Edition&rpar;](https://wordpress.tv/2022/04/28/sarah-snow-how-to-make-a-wordpress-blog-2022-edition/)
 <!-- WPTV:END -->
 
 ## Marketing
