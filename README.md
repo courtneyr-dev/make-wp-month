@@ -332,10 +332,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- CLI:START -->
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/cli/2022/05/26/xpost-announcement-incident-response-training/)
 - [WP-CLI v2.6.0 Release Notes](https://make.wordpress.org/cli/2022/01/26/wp-cli-v2-6-0-release-notes/)
-- [X-post: Experiment: A Public Channel for All Team Reps](https://make.wordpress.org/cli/2021/05/25/xpost-experiment-a-public-channel-for-all-team-reps/)
-- [WP-CLI v2.5.0 Release Notes](https://make.wordpress.org/cli/2021/05/19/wp-cli-v2-5-0-release-notes/)
-- [WP-CLI v2.5.0 release date](https://make.wordpress.org/cli/2021/05/13/wp-cli-v2-5-0-release-date/)
-- [X-post: WCEU 2020 Online Contributor Day: All that team facilitators and experienced Contributors need to know](https://make.wordpress.org/cli/2020/05/21/xpost-wceu-2020-online-contributor-day-all-that-team-facilitators-and-experienced-contributors-need-to-know/)
+- [X-post: External Linking Policy – Trusted Sources](https://make.wordpress.org/cli/2020/06/15/xpost-external-linking-policy-trusted-sources/)
 <!-- CLI:END -->
 
 ## Hosting
