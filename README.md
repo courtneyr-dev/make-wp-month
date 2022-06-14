@@ -263,6 +263,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Yaw Owusu-Ansah: Supercharging your Website with Custom Post Types and Custom Fields](https://wordpress.tv/2022/06/13/yaw-owusu-ansah-supercharging-your-website-with-custom-post-types-and-custom-fields/)
 - [Nick Diego: Builder Basics – Everything You Need to Know About Patterns](https://wordpress.tv/2022/06/13/nick-diego-builder-basics-everything-you-need-to-know-about-patterns/)
 - [Hugh Lashbrooke: Open-Source Principles and WordPress](https://wordpress.tv/2022/06/13/hugh-lashbrooke-open-source-principles-and-wordpress/)
 - [Creating a Front Page for a Block Theme](https://wordpress.tv/2022/06/09/creating-a-front-page-for-a-block-theme/)
@@ -312,7 +313,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Dominik Liss: Make WordPress hack-proof](https://wordpress.tv/2022/05/15/dominik-liss-make-wordpress-hack-proof/)
 - [Stefan Krajczar: WooCommerce-Setup for the European Market &amp; GDPR](https://wordpress.tv/2022/05/14/stefan-krajczar-woocommerce-setup-for-the-european-market-gdpr/)
 - [Franz Enzenhofer: Diversity of Content – The SEO superpower and how to use it with WordPress](https://wordpress.tv/2022/05/12/franz-enzenhofer-diversity-of-content-the-seo-superpower-and-how-to-use-it-with-wordpress/)
-- [Taking Advantage of Query Loops](https://wordpress.tv/2022/05/12/taking-advantage-of-query-loops-2/)
 <!-- WPTV:END -->
 
 ## Marketing
