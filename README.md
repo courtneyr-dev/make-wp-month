@@ -264,6 +264,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Choosing and Installing a Theme](https://wordpress.tv/2022/06/16/choosing-and-installing-a-theme/)
 - [Nick Diego: Builder Basics – Let’s Build a Custom Theme &lpar;No Coding Required&rpar;](https://wordpress.tv/2022/06/16/nick-diego-builder-basics-lets-build-a-custom-theme-no-coding-required/)
 - [Yaw Owusu-Ansah: Supercharging your Website with Custom Post Types and Custom Fields](https://wordpress.tv/2022/06/13/yaw-owusu-ansah-supercharging-your-website-with-custom-post-types-and-custom-fields/)
 - [Nick Diego: Builder Basics – Everything You Need to Know About Patterns](https://wordpress.tv/2022/06/13/nick-diego-builder-basics-everything-you-need-to-know-about-patterns/)
@@ -313,7 +314,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Maximilian Reimann-Gajdusek: WooCommerce SEO – How to optimise your WooCommerce setup](https://wordpress.tv/2022/05/16/maximilian-reimann-gajdusek-woocommerce-seo-how-to-optimise-your-woocommerce-setup/)
 - [Nick Diego: Builder Basics – Working with Templates in Full Site Editing &lpar;Part 2&rpar;](https://wordpress.tv/2022/05/15/nick-diego-builder-basics-working-with-templates-in-full-site-editing-part-2/)
 - [Dominik Liss: Make WordPress hack-proof](https://wordpress.tv/2022/05/15/dominik-liss-make-wordpress-hack-proof/)
-- [Stefan Krajczar: WooCommerce-Setup for the European Market &amp; GDPR](https://wordpress.tv/2022/05/14/stefan-krajczar-woocommerce-setup-for-the-european-market-gdpr/)
 <!-- WPTV:END -->
 
 ## Marketing
