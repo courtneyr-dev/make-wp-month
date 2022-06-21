@@ -264,6 +264,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Stefano Minoia: Git and GitHub for theme development](https://wordpress.tv/2022/06/21/git-and-github-for-theme-development/)
 - [Milana Cap: Contributor documentation – Documentation team handbook – onboarding for WordPress Documentation tea](https://wordpress.tv/2022/06/21/milana-cap-contributor-documentation-documentation-team-handbook-onboarding-for-wordpress-documentation-tea/)
 - [Milana Cap: Developer documentation – Code reference handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-code-reference-handbook-onboarding-for-wordpress-documentation-team/)
 - [Milana Cap: Developer documentation – Common APIs handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-common-apis-handbook-onboarding-for-wordpress-documentation-team/)
@@ -313,7 +314,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Enara Franco: Storytelling. No me cuentes historias, cuéntame tu historia](https://wordpress.tv/2022/05/22/enara-franco-storytelling-no-me-cuentes-historias-cuentame-tu-historia/)
 - [Miguel Díaz: El ABC de WordPress](https://wordpress.tv/2022/05/22/miguel-diaz-abc-wordpress/)
 - [Ana Cirujano: 7 consejos de diseño UX para vender más con WooCommerce](https://wordpress.tv/2022/05/22/ana-cirujano-7-consejos-disen%cc%83o-ux-para-vender-mas-woocommerce/)
-- [Joe Wiedemann, Victoria Hufnagl: Efficient content production – with strategy](https://wordpress.tv/2022/05/20/joe-wiedemann-victoria-hufnagl-efficient-content-production-with-strategy/)
 <!-- WPTV:END -->
 
 ## Marketing
