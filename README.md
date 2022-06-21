@@ -264,6 +264,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Milana Cap: Developer documentation – Code reference handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-code-reference-handbook-onboarding-for-wordpress-documentation-team/)
+- [Milana Cap: Developer documentation – Common APIs handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-common-apis-handbook-onboarding-for-wordpress-documentation-team/)
+- [Milana Cap: Developer documentation – Plugin handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-plugin-handbook-onboarding-for-wordpress-documentation-team/)
+- [Milana Cap: End user documentation – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-end-user-documentation-onboarding-for-wordpress-documentation-team/)
 - [Milana Cap: Overview – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-overview-onboarding-for-wordpress-documentation-team/)
 - [Let’s build a homepage together!](https://wordpress.tv/2022/06/19/lets-build-a-homepage-together/)
 - [Choosing and Installing a Theme](https://wordpress.tv/2022/06/16/choosing-and-installing-a-theme/)
@@ -310,10 +314,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Ana Cirujano: 7 consejos de diseño UX para vender más con WooCommerce](https://wordpress.tv/2022/05/22/ana-cirujano-7-consejos-disen%cc%83o-ux-para-vender-mas-woocommerce/)
 - [Joe Wiedemann, Victoria Hufnagl: Efficient content production – with strategy](https://wordpress.tv/2022/05/20/joe-wiedemann-victoria-hufnagl-efficient-content-production-with-strategy/)
 - [Using the Navigation Block](https://wordpress.tv/2022/05/19/using-the-navigation-block/)
-- [Getting to know the WordPress Dashboard](https://wordpress.tv/2022/05/19/getting-to-know-the-wordpress-dashboard/)
-- [Bloggers: Own your Content and Share it Everywhere](https://wordpress.tv/2022/05/19/bloggers-own-your-content-and-share-it-everywhere/)
-- [Esther Solà: Actualizaciones en WordPress &lpar;casi&rpar; sin problemas](https://wordpress.tv/2022/05/17/esther-sola-actualizaciones-wordpress-casi-sin-problemas/)
-- [Maximilian Reimann-Gajdusek: WooCommerce SEO – How to optimise your WooCommerce setup](https://wordpress.tv/2022/05/16/maximilian-reimann-gajdusek-woocommerce-seo-how-to-optimise-your-woocommerce-setup/)
 <!-- WPTV:END -->
 
 ## Marketing
