@@ -264,6 +264,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Live Studio: Sjoerd Blom interviewing one of the WCEU founders: Remkus de Vries](https://wordpress.tv/2022/06/22/live-studio-remkus-vries-sjoerd-blom/)
 - [Website Security For Solopreneurs](https://wordpress.tv/2022/06/21/bud-kraus-website-security-for-solopreneurs/)
 - [Milana Cap: WordPress through the terminal](https://wordpress.tv/2022/06/21/milana-cap-wordpress-through-the-terminal/)
 - [Stefano Minoia: Git and GitHub for theme development](https://wordpress.tv/2022/06/21/git-and-github-for-theme-development/)
@@ -313,7 +314,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Jesús Amieiro: Creando sitios multilingües con WordPress](https://wordpress.tv/2022/05/22/jesus-amieiro-creando-sitios-multilingues-wordpress/)
 - [Joan Vega: No le tengas miedo a los DNS &lpar;Claves, trucos y herramientas para dominar los Domain Name](https://wordpress.tv/2022/05/22/joan-vega-no-tengas-miedo-dns-claves-trucos-herramientas-dominar-domain-name/)
 - [Juan Tejero. WP-CLI: pierde el miedo a la consola](https://wordpress.tv/2022/05/22/juan-tejero-wp-cli-pierde-miedo-consola/)
-- [Enara Franco: Storytelling. No me cuentes historias, cuéntame tu historia](https://wordpress.tv/2022/05/22/enara-franco-storytelling-no-me-cuentes-historias-cuentame-tu-historia/)
 <!-- WPTV:END -->
 
 ## Marketing
