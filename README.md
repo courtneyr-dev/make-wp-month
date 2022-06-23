@@ -264,6 +264,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [A glimpse into the future of WordPress from a frontend point of view](https://wordpress.tv/2022/06/23/a-glimpse-into-the-future-of-wordpress-from-a-frontend-point-of-view/)
 - [Vicent Sanchis: What is the next thing about colour contrast?](https://wordpress.tv/2022/06/22/vicent-sanchis-what-is-the-next-thing-about-colour-contrast/)
 - [Live Studio: Sjoerd Blom interviewing one of the WCEU founders: Remkus de Vries](https://wordpress.tv/2022/06/22/live-studio-remkus-vries-sjoerd-blom/)
 - [Website Security For Solopreneurs](https://wordpress.tv/2022/06/21/bud-kraus-website-security-for-solopreneurs/)
@@ -313,7 +314,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Piccia Neri. Los patrones malvados: si los conoces los evitarás](https://wordpress.tv/2022/05/22/piccia-neri-patrones-malvados-conoces-evitaras/)
 - [Marta Torre: Editor de bloques &lpar;Gutenberg&rpar; De odiarlo a no poder vivir sin él](https://wordpress.tv/2022/05/22/marta-torre-editor-bloques-gutenberg-odiarlo-no-poder-vivir-sin-el/)
 - [Jesús Amieiro: Creando sitios multilingües con WordPress](https://wordpress.tv/2022/05/22/jesus-amieiro-creando-sitios-multilingues-wordpress/)
-- [Joan Vega: No le tengas miedo a los DNS &lpar;Claves, trucos y herramientas para dominar los Domain Name](https://wordpress.tv/2022/05/22/joan-vega-no-tengas-miedo-dns-claves-trucos-herramientas-dominar-domain-name/)
 <!-- WPTV:END -->
 
 ## Marketing
