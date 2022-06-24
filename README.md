@@ -264,6 +264,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Build Gatsby WordPress sites with Gatsby WP Themes](https://wordpress.tv/2022/06/24/build-gatsby-wordpress-sites-with-gatsby-wp-themes/)
+- [We need to do better &lpar;really!&rpar;](https://wordpress.tv/2022/06/24/we-need-to-do-better-really/)
 - [Nestor Angulo: AI in the hacking world war](https://wordpress.tv/2022/06/23/nestor-angulo-ai-in-the-hacking-world-war/)
 - [Anatomy of a Block Theme](https://wordpress.tv/2022/06/23/anatomy-of-a-block-theme/)
 - [Design for conversions: how to be more profitable by putting people first](https://wordpress.tv/2022/06/23/design-for-conversions-how-to-be-more-profitable-by-putting-people-first/)
@@ -312,8 +314,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Iñaki Jauregui: ¡Cómo escapar del RGPD, y no morir en el intento!](https://wordpress.tv/2022/05/22/inaki-jauregui-escapar-rgpd-no-morir-intento/)
 - [Diego Nieto: Vende en Marketplaces tus productos desde WooCommerce](https://wordpress.tv/2022/05/22/diego-nieto-vende-marketplaces-productos-woocommerce/)
 - [Pablo Moratinos: Una receta de optimización SEO en Search Console](https://wordpress.tv/2022/05/22/pablo-moratinos-una-receta-de-optimizacion-seo-en-search-console/)
-- [Shaunelle Drake: WordPress – giving everyone a voice](https://wordpress.tv/2022/05/22/shaunelle-drake-wordpress-giving-everyone-a-voice/)
-- [Noelia Jiménez: Cómo sacarle toda la chicha a un blog como herramienta de visibilidad de tu negocio](https://wordpress.tv/2022/05/22/noelia-jimenez-como-sacarle-toda-chicha-blog-como-herramienta-visibilidad-negocio/)
 <!-- WPTV:END -->
 
 ## Marketing
