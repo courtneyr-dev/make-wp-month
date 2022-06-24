@@ -264,6 +264,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Nestor Angulo: AI in the hacking world war](https://wordpress.tv/2022/06/23/nestor-angulo-ai-in-the-hacking-world-war/)
 - [Anatomy of a Block Theme](https://wordpress.tv/2022/06/23/anatomy-of-a-block-theme/)
 - [Design for conversions: how to be more profitable by putting people first](https://wordpress.tv/2022/06/23/design-for-conversions-how-to-be-more-profitable-by-putting-people-first/)
 - [A glimpse into the future of WordPress from a frontend point of view](https://wordpress.tv/2022/06/23/a-glimpse-into-the-future-of-wordpress-from-a-frontend-point-of-view/)
@@ -313,7 +314,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Pablo Moratinos: Una receta de optimización SEO en Search Console](https://wordpress.tv/2022/05/22/pablo-moratinos-una-receta-de-optimizacion-seo-en-search-console/)
 - [Shaunelle Drake: WordPress – giving everyone a voice](https://wordpress.tv/2022/05/22/shaunelle-drake-wordpress-giving-everyone-a-voice/)
 - [Noelia Jiménez: Cómo sacarle toda la chicha a un blog como herramienta de visibilidad de tu negocio](https://wordpress.tv/2022/05/22/noelia-jimenez-como-sacarle-toda-chicha-blog-como-herramienta-visibilidad-negocio/)
-- [Piccia Neri. Los patrones malvados: si los conoces los evitarás](https://wordpress.tv/2022/05/22/piccia-neri-patrones-malvados-conoces-evitaras/)
 <!-- WPTV:END -->
 
 ## Marketing
