@@ -266,6 +266,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Is podcasting the future of WordPress?](https://wordpress.tv/2022/06/27/is-podcasting-the-future-of-wordpress/)
+- [Milan Ivanovic: Why we community?](https://wordpress.tv/2022/06/27/why-we-community/)
+- [Rodolfo Melogli: Let’s build &lpar;and sell&rpar; an online course](https://wordpress.tv/2022/06/27/rodolfo-melogli-lets-build-and-sell-an-online-course/)
 - [Introdução a visualização em lista](https://wordpress.tv/2022/06/27/introducao-a-visualizacao-em-lista/)
 - [Sean Blakeley: The block pattern revolution](https://wordpress.tv/2022/06/27/sean-blakeley-the-block-pattern-revolution/)
 - [Live Studio: Takis Bouyouris interviewing WCEU Local Team: José Freitas and Marco Pereirinha](https://wordpress.tv/2022/06/27/live-studio-takis-bouyouris-interviewing-wceu-local-team-jose-freitas-and-marco-pereirinha/)
@@ -313,9 +316,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Eva Farutxo Jiménez: Fotografía de producto creatíva DIY](https://wordpress.tv/2022/05/24/eva-farutxo-jimenez-fotografia-producto-creativa-diy/)
 - [Leire Roldán: Aspectos legales y fiscales de los Infoproductos](https://wordpress.tv/2022/05/24/leire-roldan-aspectos-legales-fiscales-infoproductos/)
 - [Sabela Muñiz: Do_action hackathon? Acercar WordPress al mundo real](https://wordpress.tv/2022/05/24/sabela-muniz-do-action-hackathon/)
-- [Néstor Angulo de Ugarte. N1909: El astuto caso del Ransomware en WordPress](https://wordpress.tv/2022/05/24/nestor-angulo-ugarte-n1909-astuto-caso-ransomware-wordpress/)
-- [Jorge Monclús: Sácale chispas a la API Rest de WordPress](https://wordpress.tv/2022/05/24/jorge-monclus-sacale-chispas-api-rest-wordpress/)
-- [Olatz Goicoechea: Optimiza tu presupuesto en publicidad digital](https://wordpress.tv/2022/05/24/olatz-goicoechea-optimiza-presupuesto-publicidad-digital/)
 <!-- WPTV:END -->
 
 ## Marketing
