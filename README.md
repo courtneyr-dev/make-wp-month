@@ -265,6 +265,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The Real Impact of Having Website Performance as a Mindset](https://wordpress.tv/2022/06/27/the-real-impact-of-having-website-performance-as-a-mindset/)
 - [Greg Ziolkowski: Level Up Block Building Skills](https://wordpress.tv/2022/06/26/greg-ziolkowski-level-up-block-building-skills/)
 - [Build Gatsby WordPress sites with Gatsby WP Themes](https://wordpress.tv/2022/06/24/build-gatsby-wordpress-sites-with-gatsby-wp-themes/)
 - [We need to do better &lpar;really!&rpar;](https://wordpress.tv/2022/06/24/we-need-to-do-better-really/)
@@ -314,7 +315,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Javi Guembe: ¿Webs para clientes? mejor webs para Stakeholders](https://wordpress.tv/2022/05/24/javi-guembe-webs-clientes-mejor-webs-stakeholders/)
 - [Mesa redonda: El futuro del Comercio Local y cómo puede ayudar WordPress](https://wordpress.tv/2022/05/24/mesa-redonda-futuro-comercio-local-y-como-puede-ayudar-wordpress/)
 - [Iñaki Jauregui: ¡Cómo escapar del RGPD, y no morir en el intento!](https://wordpress.tv/2022/05/22/inaki-jauregui-escapar-rgpd-no-morir-intento/)
-- [Diego Nieto: Vende en Marketplaces tus productos desde WooCommerce](https://wordpress.tv/2022/05/22/diego-nieto-vende-marketplaces-productos-woocommerce/)
 <!-- WPTV:END -->
 
 ## Marketing
