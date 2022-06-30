@@ -267,6 +267,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Sabrina Zeidan, Juan Hernando, Jason Rouet, Evangelia Pappa: Live Studio: Evangelia Pappa interviewing WCEU Organisers: Sabrina Zeidan, Juan Hernando and Jason R](https://wordpress.tv/2022/06/30/sabrina-zeidan-juan-hernando-jason-rouet-evangelia-pappa-live-studio-evangelia-pappa-interviewing-wceu-organisers-sabrina-zeidan-juan-hernando-and-jason-r/)
 - [Milana Cap: Developer documentation – Block editor handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/30/milana-cap-developer-documentation-block-editor-handbook-onboarding-for-wordpress-documentation-team/)
 - [Milana Cap: Developer documentation – Themes handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/30/milana-cap-developer-documentation-themes-handbook-onboarding-for-wordpress-documentation-team/)
 - [Richard Midson: Is podcasting the future of WordPress?](https://wordpress.tv/2022/06/27/is-podcasting-the-future-of-wordpress/)
@@ -316,7 +317,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Daniel Muñoz de Arenillas: ¿WordPress contamina?](https://wordpress.tv/2022/05/24/daniel-munoz-arenillas-wordpress-contamina-como-tener-una-web-respetuosa-planeta-puede/)
 - [WordCamp Irún: Cierre WordCamp Irún 2022](https://wordpress.tv/2022/05/24/wordcamp-irun-cierre-wordcamp-irun-2022/)
 - [WordCamp Irún: Presentación WordCamp Irún 2022](https://wordpress.tv/2022/05/24/wordcamp-irun-presentacion-wordcamp-irun-2022/)
-- [Eva Farutxo Jiménez: Fotografía de producto creatíva DIY](https://wordpress.tv/2022/05/24/eva-farutxo-jimenez-fotografia-producto-creativa-diy/)
 <!-- WPTV:END -->
 
 ## Marketing
