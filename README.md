@@ -262,8 +262,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:START -->
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/tv/2022/05/26/xpost-announcement-incident-response-training/)
 - [X-post: Proposal: Refurbishing Camera Kits](https://make.wordpress.org/tv/2022/02/16/xpost-proposal-refurbishing-camera-kits/)
-- [X-post: Video and YouTube Workflow for Online WordCamps: Request for Feedback](https://make.wordpress.org/tv/2020/06/24/xpost-video-and-youtube-workflow-for-online-wordcamps-request-for-feedback/)
-- [Video tutorial for editing videos with Shotcut](https://make.wordpress.org/tv/2020/06/04/video-tutorial-for-editing-videos-with-shotcut/)
+- [X-post: WCEU 2020 Online Contributor Day: Feedback and achievements](https://make.wordpress.org/tv/2020/07/02/xpost-wceu-2020-online-contributor-day-feedback-and-achievements/)
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
