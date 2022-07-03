@@ -266,6 +266,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Paul Bearne: Finding your WordPress lifestyle – insider insights from a veteran coder](https://wordpress.tv/2022/07/03/paul-bearne-finding-your-wordpress-lifestyle-insider-insights-from-a-veteran-coder/)
 - [Daisy Olsen: Extending the WordPress Block Editor](https://wordpress.tv/2022/07/01/daisy-olsen-extending-the-wordpress-block-editor/)
 - [Vassilena Valchanova: Building data-driven content personas](https://wordpress.tv/2022/07/01/vassilena-valchanova-building-data-driven-content-personas/)
 - [Laurent Maillard: Agile marketing – how we made our agency a better place](https://wordpress.tv/2022/07/01/laurent-maillard-agile-marketing-how-we-made-our-agency-a-better-place/)
@@ -315,7 +316,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Miguel Alanís: Fuentes y estilos en FSE](https://wordpress.tv/2022/05/31/miguel-alanis-fuentes-y-estilos-en-fse/)
 - [Destiny Kanno: I want a Website, not a Blog!](https://wordpress.tv/2022/05/27/destiny-kanno-i-want-a-website-not-a-blog/)
 - [Matteo Enna: I was a shy guy and I didn’t speak English, but then I discovered WordCamps!](https://wordpress.tv/2022/05/27/matteo-enna-i-was-a-shy-guy-and-i-didnt-speak-english-but-then-i-discovered-wordcamps/)
-- [Managing Updates](https://wordpress.tv/2022/05/26/managing-updates/)
 <!-- WPTV:END -->
 
 ## Marketing
