@@ -266,6 +266,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Yvette Sonneveld, Santana Inniss: Live Studio: Sjoerd Blom interviewing WCEU Attendees: Yvette Sonneveld and Santana Inniss](https://wordpress.tv/2022/07/03/yvette-sonneveld-santana-inniss-live-studio-sjoerd-blom-interviewing-wceu-attendees-yvette-sonneveld-and-santana-inniss/)
+- [Live Studio: Wendie Huis in ‘t Veld interviewing WCEU Speaker Piccia Neri](https://wordpress.tv/2022/07/03/live-studio-wendie-huis-in-t-veld-interviewing-wceu-speaker-piccia-neri/)
+- [Live Studio. Evangelia Pappa interviewing Serbian Community: Nemanja Cimbaljevic, Milana Cap and Mil](https://wordpress.tv/2022/07/03/live-studio-serbian-community/)
 - [José Ramón Padrón, Evangelia Pappa: Live Studio: Evangelia Pappa interviewing Spanish Community: José Ramón Padrón](https://wordpress.tv/2022/07/03/jose-ramon-padron-evangelia-pappa-live-studio-evangelia-pappa-interviewing-spanish-community-jose-ramon-padron/)
 - [Paul Bearne: Finding your WordPress lifestyle – insider insights from a veteran coder](https://wordpress.tv/2022/07/03/paul-bearne-finding-your-wordpress-lifestyle-insider-insights-from-a-veteran-coder/)
 - [Daisy Olsen: Extending the WordPress Block Editor](https://wordpress.tv/2022/07/01/daisy-olsen-extending-the-wordpress-block-editor/)
@@ -313,9 +316,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Marco Narzisi: Free journalism, fake news and truth in the age of WordPress](https://wordpress.tv/2022/06/01/marco-narzisi-free-journalism-fake-news-and-truth-in-the-age-of-wordpress/)
 - [Chabi Angulo: La seguridad es importante](https://wordpress.tv/2022/05/31/chabi-angulo-la-seguridad-es-importante/)
 - [Alberto Gómez: Crear newsletter de pago](https://wordpress.tv/2022/05/31/alberto-gomez-crear-newsletter-de-pago/)
-- [Flavia Bernárdez: Cambiar upload y bloque de galería](https://wordpress.tv/2022/05/31/flavia-bernardez-cambiar-upload-y-bloque-de-galeria/)
-- [Miguel Alanís: Fuentes y estilos en FSE](https://wordpress.tv/2022/05/31/miguel-alanis-fuentes-y-estilos-en-fse/)
-- [Destiny Kanno: I want a Website, not a Blog!](https://wordpress.tv/2022/05/27/destiny-kanno-i-want-a-website-not-a-blog/)
 <!-- WPTV:END -->
 
 ## Marketing
