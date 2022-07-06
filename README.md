@@ -267,6 +267,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [My First Recipe Blog](https://wordpress.tv/2022/07/06/destiny-kanno-my-first-recipe-blog/)
 - [User Management](https://wordpress.tv/2022/07/06/user-management/)
 - [Design With Me: Create a WordPress Blog of Your Own](https://wordpress.tv/2022/07/06/design-with-me-create-a-wordpress-blog-of-your-own/)
 - [Yvette Sonneveld, Santana Inniss: Live Studio: Sjoerd Blom interviewing WCEU Attendees: Yvette Sonneveld and Santana Inniss](https://wordpress.tv/2022/07/03/yvette-sonneveld-santana-inniss-live-studio-sjoerd-blom-interviewing-wceu-attendees-yvette-sonneveld-and-santana-inniss/)
@@ -316,7 +317,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hugh Lashbrooke: Open-Source Principles and WordPress](https://wordpress.tv/2022/06/13/hugh-lashbrooke-open-source-principles-and-wordpress/)
 - [Creating a Front Page for a Block Theme](https://wordpress.tv/2022/06/09/creating-a-front-page-for-a-block-theme/)
 - [How to improve the SEO fitness of your site](https://wordpress.tv/2022/06/02/marieke-van-rakt-how-improve-seo-fitness-site/)
-- [Marco Narzisi: Free journalism, fake news and truth in the age of WordPress](https://wordpress.tv/2022/06/01/marco-narzisi-free-journalism-fake-news-and-truth-in-the-age-of-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
