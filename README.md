@@ -344,6 +344,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
+- [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/hosting/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [Plan for adding WebP &amp; multiple MIME support for images](https://make.wordpress.org/hosting/2022/07/01/plan-for-adding-webp-multiple-mime-support-for-images/)
 - [WordCamp Europe 2022 Contributor Day: Summary](https://make.wordpress.org/hosting/2022/06/06/wordcamp-europe-2022-contributor-day-summary/)
 - [WordCamp Europe 2022 Contributor Day](https://make.wordpress.org/hosting/2022/05/31/wordcamp-europe-2022-contributor-day/)
