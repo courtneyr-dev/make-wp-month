@@ -261,6 +261,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## TV
 <!-- TV:START -->
+- [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/tv/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/tv/2022/05/26/xpost-announcement-incident-response-training/)
 - [X-post: Proposal: Refurbishing Camera Kits](https://make.wordpress.org/tv/2022/02/16/xpost-proposal-refurbishing-camera-kits/)
 - [X-post: WCEU 2020 Online Contributor Day: Feedback and achievements](https://make.wordpress.org/tv/2020/07/02/xpost-wceu-2020-online-contributor-day-feedback-and-achievements/)
