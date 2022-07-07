@@ -143,6 +143,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/plugins/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [Proposal for a WordPress plugin checker](https://make.wordpress.org/plugins/2022/07/05/proposal-for-a-wordpress-plugin-checker/)
 - [X-post: Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/plugins/2022/06/30/xpost-learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
 - [X-post: Rollback Feature: Testing Call to Action](https://make.wordpress.org/plugins/2022/06/27/xpost-rollback-feature-testing-call-to-action/)
