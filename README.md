@@ -269,6 +269,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Creating a paid newsletter subscription in WordPress](https://wordpress.tv/2022/07/08/creating-a-paid-newsletter-subscription-in-wordpress/)
+- [Sofie Couwenbergh: How to create clear briefings for posts that’ll rank](https://wordpress.tv/2022/07/08/sofie-couwenbergh-how-to-create-clear-briefings-for-posts-thatll-rank/)
 - [My First Recipe Blog](https://wordpress.tv/2022/07/06/destiny-kanno-my-first-recipe-blog/)
 - [User Management](https://wordpress.tv/2022/07/06/user-management/)
 - [Design With Me: Create a WordPress Blog of Your Own](https://wordpress.tv/2022/07/06/design-with-me-create-a-wordpress-blog-of-your-own/)
@@ -317,8 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Yaw Owusu-Ansah: Supercharging your Website with Custom Post Types and Custom Fields](https://wordpress.tv/2022/06/13/yaw-owusu-ansah-supercharging-your-website-with-custom-post-types-and-custom-fields/)
 - [Nick Diego: Builder Basics – Everything You Need to Know About Patterns](https://wordpress.tv/2022/06/13/nick-diego-builder-basics-everything-you-need-to-know-about-patterns/)
 - [Hugh Lashbrooke: Open-Source Principles and WordPress](https://wordpress.tv/2022/06/13/hugh-lashbrooke-open-source-principles-and-wordpress/)
-- [Creating a Front Page for a Block Theme](https://wordpress.tv/2022/06/09/creating-a-front-page-for-a-block-theme/)
-- [How to improve the SEO fitness of your site](https://wordpress.tv/2022/06/02/marieke-van-rakt-how-improve-seo-fitness-site/)
 <!-- WPTV:END -->
 
 ## Marketing
