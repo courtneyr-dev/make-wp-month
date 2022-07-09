@@ -269,6 +269,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Ronan Chardonneau: Matomo alternative à Google Analytics ?](https://wordpress.tv/2022/07/09/ronan-chardonneau-matomo-alternative-a-google-analytics/)
 - [Jonathan de Jong: The what, why &amp; how of code reviews](https://wordpress.tv/2022/07/08/jonathan-de-jong-the-what-why-how-of-code-reviews/)
 - [Protect your Website Visitors with Security Headers](https://wordpress.tv/2022/07/08/protect-your-website-visitors-with-security-headers/)
 - [Creating a paid newsletter subscription in WordPress](https://wordpress.tv/2022/07/08/creating-a-paid-newsletter-subscription-in-wordpress/)
@@ -318,7 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s build a homepage together!](https://wordpress.tv/2022/06/19/lets-build-a-homepage-together/)
 - [Choosing and Installing a Theme](https://wordpress.tv/2022/06/16/choosing-and-installing-a-theme/)
 - [Nick Diego: Builder Basics – Let’s Build a Custom Theme &lpar;No Coding Required&rpar;](https://wordpress.tv/2022/06/16/nick-diego-builder-basics-lets-build-a-custom-theme-no-coding-required/)
-- [Yaw Owusu-Ansah: Supercharging your Website with Custom Post Types and Custom Fields](https://wordpress.tv/2022/06/13/yaw-owusu-ansah-supercharging-your-website-with-custom-post-types-and-custom-fields/)
 <!-- WPTV:END -->
 
 ## Marketing
