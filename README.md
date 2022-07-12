@@ -440,6 +440,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WordPress 6.0.1 Maintenance Release](https://wordpress.org/news/2022/07/wordpress-6-0-1-maintenance-release/)
 - [WP Briefing: Episode 35: Five for the Future’s True Intentions](https://wordpress.org/news/2022/07/episode-35-five-for-the-futures-true-intentions/)
 - [The Month in WordPress – June 2022](https://wordpress.org/news/2022/07/the-month-in-wordpress-june-2022/)
 - [People of WordPress: Leo Gopal](https://wordpress.org/news/2022/06/people-of-wordpress-leo-gopal/)
@@ -469,7 +470,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WP Briefing: Episode 27: Is WordPress Made for Me?](https://wordpress.org/news/2022/03/episode-27-is-wordpress-made-for-me/)
 - [WordPress 5.9.2 Security and Maintenance Release](https://wordpress.org/news/2022/03/wordpress-5-9-2-security-maintenance-release/)
 - [WP Briefing: Episode 26: Matt Mullenweg on Ukraine, Community, and WordPress](https://wordpress.org/news/2022/03/episode-26-matt-mullenweg-on-ukraine-community-and-wordpress/)
-- [The Month in WordPress – February 2022](https://wordpress.org/news/2022/03/the-month-in-wordpress-february-2022/)
 <!-- NEWS:END -->
 
 ## Jobs
