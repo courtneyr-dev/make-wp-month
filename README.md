@@ -269,6 +269,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Introdução ao Editor de Site e ao Editor de Modelos](https://wordpress.tv/2022/07/13/introducao-ao-editor-de-site-e-ao-editor-de-modelos/)
+- [Como criar um post ou página com o editor de blocos WordPress](https://wordpress.tv/2022/07/13/como-criar-um-post-ou-pagina-com-o-editor-de-blocos-wordpress/)
 - [Maciek Palmowski: Deploying WordPress with confidence using CI/CD](https://wordpress.tv/2022/07/13/maciek-palmowski-deploying-wordpress-with-confidence-using-ci-cd/)
 - [Automated Testing Made Easy](https://wordpress.tv/2022/07/13/automated-testing-made-easy/)
 - [Daisy Olsen: Build your first block theme](https://wordpress.tv/2022/07/13/daisy-olsen-build-your-first-block-theme/)
@@ -317,8 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Website Security For Solopreneurs](https://wordpress.tv/2022/06/21/bud-kraus-website-security-for-solopreneurs/)
 - [Milana Cap: WordPress through the terminal](https://wordpress.tv/2022/06/21/milana-cap-wordpress-through-the-terminal/)
 - [Stefano Minoia: Git and GitHub for theme development](https://wordpress.tv/2022/06/21/git-and-github-for-theme-development/)
-- [Milana Cap: Contributor documentation – Documentation team handbook – onboarding for WordPress Documentation tea](https://wordpress.tv/2022/06/21/milana-cap-contributor-documentation-documentation-team-handbook-onboarding-for-wordpress-documentation-tea/)
-- [Milana Cap: Developer documentation – Code reference handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-code-reference-handbook-onboarding-for-wordpress-documentation-team/)
 <!-- WPTV:END -->
 
 ## Marketing
