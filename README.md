@@ -269,6 +269,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Maciek Palmowski: Deploying WordPress with confidence using CI/CD](https://wordpress.tv/2022/07/13/maciek-palmowski-deploying-wordpress-with-confidence-using-ci-cd/)
+- [Automated Testing Made Easy](https://wordpress.tv/2022/07/13/automated-testing-made-easy/)
+- [Daisy Olsen: Build your first block theme](https://wordpress.tv/2022/07/13/daisy-olsen-build-your-first-block-theme/)
 - [WordPress Action Hooks](https://wordpress.tv/2022/07/12/wordpress-action-hooks/)
 - [Isotta Peira: Inclusività agli eventi di WordPress](https://wordpress.tv/2022/07/11/isotta-peira-inclusivita-agli-eventi-di-wordpress/)
 - [Let’s code! Creating your first WordPress Child Theme](https://wordpress.tv/2022/07/11/lets-code-creating-your-first-wordpress-child-theme/)
@@ -316,9 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Stefano Minoia: Git and GitHub for theme development](https://wordpress.tv/2022/06/21/git-and-github-for-theme-development/)
 - [Milana Cap: Contributor documentation – Documentation team handbook – onboarding for WordPress Documentation tea](https://wordpress.tv/2022/06/21/milana-cap-contributor-documentation-documentation-team-handbook-onboarding-for-wordpress-documentation-tea/)
 - [Milana Cap: Developer documentation – Code reference handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-code-reference-handbook-onboarding-for-wordpress-documentation-team/)
-- [Milana Cap: Developer documentation – Common APIs handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-common-apis-handbook-onboarding-for-wordpress-documentation-team/)
-- [Milana Cap: Developer documentation – Plugin handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-plugin-handbook-onboarding-for-wordpress-documentation-team/)
-- [Milana Cap: End user documentation – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-end-user-documentation-onboarding-for-wordpress-documentation-team/)
 <!-- WPTV:END -->
 
 ## Marketing
