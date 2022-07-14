@@ -269,6 +269,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Nev Harris: Secrets to profitably pricing recurring revenue](https://wordpress.tv/2022/07/14/nev-harris-secrets-to-profitably-pricing-recurring-revenue/)
+- [Darren Ethier: The future of commerce in WordPress with Full Site Editing](https://wordpress.tv/2022/07/14/darren-ethier-the-future-of-commerce-in-wordpress-with-full-site-editing/)
 - [Dave Lockie: WordPress and web3 trends &lpar;disruption, challenges, opportunities&rpar;](https://wordpress.tv/2022/07/14/dave-lockie-wordpress-and-web3-trends-disruption-challenges-opportunities/)
 - [Felix Arntz: Enhancing performance in an open-source CMS ecosystem](https://wordpress.tv/2022/07/14/felix-arntz-enhancing-performance-in-an-open-source-cms-ecosystem/)
 - [Jonathan Wold: Growing in WordPress through partnerships](https://wordpress.tv/2022/07/14/jonathan-wold-growing-in-wordpress-through-partnerships/)
@@ -317,8 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Alain Schlesser: We need to do better &lpar;really!&rpar;](https://wordpress.tv/2022/06/24/we-need-to-do-better-really/)
 - [Nestor Angulo: AI in the hacking world war](https://wordpress.tv/2022/06/23/nestor-angulo-ai-in-the-hacking-world-war/)
 - [Anatomy of a Block Theme](https://wordpress.tv/2022/06/23/anatomy-of-a-block-theme/)
-- [Piccia Neri: Design for conversions: how to be more profitable by putting people first](https://wordpress.tv/2022/06/23/design-for-conversions-how-to-be-more-profitable-by-putting-people-first/)
-- [Pablo Postigo: A glimpse into the future of WordPress from a frontend point of view](https://wordpress.tv/2022/06/23/a-glimpse-into-the-future-of-wordpress-from-a-frontend-point-of-view/)
 <!-- WPTV:END -->
 
 ## Marketing
