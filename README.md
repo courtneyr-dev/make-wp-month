@@ -269,6 +269,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Vito Peleg: Why does a 5d build become a 4-6w project with clients?](https://wordpress.tv/2022/07/13/vito-peleg-why-does-a-5d-build-become-a-4-6w-project-with-clients/)
 - [Introdução ao Editor de Site e ao Editor de Modelos](https://wordpress.tv/2022/07/13/introducao-ao-editor-de-site-e-ao-editor-de-modelos/)
 - [Como criar um post ou página com o editor de blocos WordPress](https://wordpress.tv/2022/07/13/como-criar-um-post-ou-pagina-com-o-editor-de-blocos-wordpress/)
 - [Maciek Palmowski: Deploying WordPress with confidence using CI/CD](https://wordpress.tv/2022/07/13/maciek-palmowski-deploying-wordpress-with-confidence-using-ci-cd/)
@@ -318,7 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Live Studio: Sjoerd Blom interviewing one of the WCEU founders: Remkus de Vries](https://wordpress.tv/2022/06/22/live-studio-remkus-vries-sjoerd-blom/)
 - [Website Security For Solopreneurs](https://wordpress.tv/2022/06/21/bud-kraus-website-security-for-solopreneurs/)
 - [Milana Cap: WordPress through the terminal](https://wordpress.tv/2022/06/21/milana-cap-wordpress-through-the-terminal/)
-- [Stefano Minoia: Git and GitHub for theme development](https://wordpress.tv/2022/06/21/git-and-github-for-theme-development/)
 <!-- WPTV:END -->
 
 ## Marketing
