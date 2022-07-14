@@ -59,6 +59,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [CLPTE request for iutepay plugin](https://make.wordpress.org/polyglots/2022/07/14/clpte-request-for-iutepay-plugin/)
+- [CLPTE Request](https://make.wordpress.org/polyglots/2022/07/14/clpte-request-6/)
 - [PTE R…](https://make.wordpress.org/polyglots/2022/07/13/pte-r-6/)
 - [Exchange Rates [exchange-rates]](https://make.wordpress.org/polyglots/2022/07/13/exchange-rates-exchange-rates/)
 - [Hello, I wanted you to…](https://make.wordpress.org/polyglots/2022/07/12/hello-i-wanted-you-to/)
@@ -67,8 +69,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Brizy Page Builder translations](https://make.wordpress.org/polyglots/2022/07/12/brizy-page-builder-translations-2/)
 - [PTE Request for cms-tree-page-view](https://make.wordpress.org/polyglots/2022/07/11/pte-request-for-cms-tree-page-view/)
 - [PTE Request for Payment Gateway for Cielo API on WooCommerce](https://make.wordpress.org/polyglots/2022/07/11/pte-request-for-payment-gateway-for-cielo-api-on-woocommerce/)
-- [Hello Polyglots, I ‘m the…](https://make.wordpress.org/polyglots/2022/07/11/hello-polyglots-i-m-the-8/)
-- [PTE Request for moneytigo](https://make.wordpress.org/polyglots/2022/07/10/pte-request-for-moneytigo/)
 <!-- POLYGLOTS:END -->
 
 ## Support
