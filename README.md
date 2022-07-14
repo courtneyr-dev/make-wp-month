@@ -269,6 +269,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Dave Lockie: WordPress and web3 trends &lpar;disruption, challenges, opportunities&rpar;](https://wordpress.tv/2022/07/14/dave-lockie-wordpress-and-web3-trends-disruption-challenges-opportunities/)
+- [Felix Arntz: Enhancing performance in an open-source CMS ecosystem](https://wordpress.tv/2022/07/14/felix-arntz-enhancing-performance-in-an-open-source-cms-ecosystem/)
 - [Jonathan Wold: Growing in WordPress through partnerships](https://wordpress.tv/2022/07/14/jonathan-wold-growing-in-wordpress-through-partnerships/)
 - [Victor Santoyo: Security lessons learned from 2021](https://wordpress.tv/2022/07/13/victor-santoyo-security-lessons-learned-from-2021/)
 - [Vito Peleg: Why does a 5d build become a 4-6w project with clients?](https://wordpress.tv/2022/07/13/vito-peleg-why-does-a-5d-build-become-a-4-6w-project-with-clients/)
@@ -317,8 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Anatomy of a Block Theme](https://wordpress.tv/2022/06/23/anatomy-of-a-block-theme/)
 - [Piccia Neri: Design for conversions: how to be more profitable by putting people first](https://wordpress.tv/2022/06/23/design-for-conversions-how-to-be-more-profitable-by-putting-people-first/)
 - [Pablo Postigo: A glimpse into the future of WordPress from a frontend point of view](https://wordpress.tv/2022/06/23/a-glimpse-into-the-future-of-wordpress-from-a-frontend-point-of-view/)
-- [Vicent Sanchis: What is the next thing about colour contrast?](https://wordpress.tv/2022/06/22/vicent-sanchis-what-is-the-next-thing-about-colour-contrast/)
-- [Live Studio: Sjoerd Blom interviewing one of the WCEU founders: Remkus de Vries](https://wordpress.tv/2022/06/22/live-studio-remkus-vries-sjoerd-blom/)
 <!-- WPTV:END -->
 
 ## Marketing
