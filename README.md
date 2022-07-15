@@ -269,6 +269,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Explore the Block Directory](https://wordpress.tv/2022/07/15/explore-the-block-directory/)
 - [Nev Harris: Secrets to profitably pricing recurring revenue](https://wordpress.tv/2022/07/14/nev-harris-secrets-to-profitably-pricing-recurring-revenue/)
 - [Darren Ethier: The future of commerce in WordPress with Full Site Editing](https://wordpress.tv/2022/07/14/darren-ethier-the-future-of-commerce-in-wordpress-with-full-site-editing/)
 - [Dave Lockie: WordPress and web3 trends &lpar;disruption, challenges, opportunities&rpar;](https://wordpress.tv/2022/07/14/dave-lockie-wordpress-and-web3-trends-disruption-challenges-opportunities/)
@@ -318,7 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Alexandra Spalato: Build Gatsby WordPress sites with Gatsby WP Themes](https://wordpress.tv/2022/06/24/build-gatsby-wordpress-sites-with-gatsby-wp-themes/)
 - [Alain Schlesser: We need to do better &lpar;really!&rpar;](https://wordpress.tv/2022/06/24/we-need-to-do-better-really/)
 - [Nestor Angulo: AI in the hacking world war](https://wordpress.tv/2022/06/23/nestor-angulo-ai-in-the-hacking-world-war/)
-- [Anatomy of a Block Theme](https://wordpress.tv/2022/06/23/anatomy-of-a-block-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
