@@ -269,6 +269,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Matt Mullenweg, Josepha Haden: In Conversation](https://wordpress.tv/2022/07/17/matt-mullenweg-josepha-haden-in-conversation/)
 - [Mike Crantea: Optimization strategies for the Paint Web Vitals](https://wordpress.tv/2022/07/17/mike-crantea-optimization-strategies-for-the-paint-web-vitals/)
 - [Juan Pablo Gomez: You get a layout! Everyone gets a layout!](https://wordpress.tv/2022/07/17/juan-pablo-gomez-you-get-a-layout-everyone-gets-a-layout/)
 - [Adam Silverstein, Justin Ahinon: Optimize your WordPress](https://wordpress.tv/2022/07/17/adam-silverstein-justin-ahinon-optimize-your-wordpress/)
@@ -286,7 +287,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Introdução ao Editor de Site e ao Editor de Modelos](https://wordpress.tv/2022/07/13/introducao-ao-editor-de-site-e-ao-editor-de-modelos/)
 - [Como criar um post ou página com o editor de blocos WordPress](https://wordpress.tv/2022/07/13/como-criar-um-post-ou-pagina-com-o-editor-de-blocos-wordpress/)
 - [Maciek Palmowski: Deploying WordPress with confidence using CI/CD](https://wordpress.tv/2022/07/13/maciek-palmowski-deploying-wordpress-with-confidence-using-ci-cd/)
-- [Automated Testing Made Easy](https://wordpress.tv/2022/07/13/automated-testing-made-easy/)
+- [Micah Wood: Automated Testing Made Easy](https://wordpress.tv/2022/07/13/automated-testing-made-easy/)
 - [Daisy Olsen: Build your first block theme](https://wordpress.tv/2022/07/13/daisy-olsen-build-your-first-block-theme/)
 - [WordPress Action Hooks](https://wordpress.tv/2022/07/12/wordpress-action-hooks/)
 - [Isotta Peira: Inclusività agli eventi di WordPress](https://wordpress.tv/2022/07/11/isotta-peira-inclusivita-agli-eventi-di-wordpress/)
@@ -318,7 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Milan Ivanovic: Why we community?](https://wordpress.tv/2022/06/27/why-we-community/)
 - [Rodolfo Melogli: Let’s build &lpar;and sell&rpar; an online course](https://wordpress.tv/2022/06/27/rodolfo-melogli-lets-build-and-sell-an-online-course/)
 - [Introdução a visualização em lista](https://wordpress.tv/2022/06/27/introducao-a-visualizacao-em-lista/)
-- [Sean Blakeley: The block pattern revolution](https://wordpress.tv/2022/06/27/sean-blakeley-the-block-pattern-revolution/)
 <!-- WPTV:END -->
 
 ## Marketing
