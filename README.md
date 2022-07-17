@@ -269,6 +269,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mike Crantea: Optimization strategies for the Paint Web Vitals](https://wordpress.tv/2022/07/17/mike-crantea-optimization-strategies-for-the-paint-web-vitals/)
+- [Juan Pablo Gomez: You get a layout! Everyone gets a layout!](https://wordpress.tv/2022/07/17/juan-pablo-gomez-you-get-a-layout-everyone-gets-a-layout/)
+- [Adam Silverstein, Justin Ahinon: Optimize your WordPress](https://wordpress.tv/2022/07/17/adam-silverstein-justin-ahinon-optimize-your-wordpress/)
 - [Roberto Remedios: Traducciones en es-cr.wordpress.org](https://wordpress.tv/2022/07/16/roberto-remedios-traducciones-en-es-cr-wordpress-org/)
 - [Nick Diego: Builder Basics – Designing Advanced Layouts with Core Blocks](https://wordpress.tv/2022/07/15/nick-diego-builder-basics-designing-advanced-layouts-with-core-blocks/)
 - [Writing content with the 10 Text blocks](https://wordpress.tv/2022/07/15/writing-content-with-the-10-text-blocks/)
@@ -291,8 +294,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Udo Meisen: Datenschutz Update 2022](https://wordpress.tv/2022/07/10/udo-meisen-datenschutz-update-2022/)
 - [Ronan Chardonneau: Matomo alternative à Google Analytics ?](https://wordpress.tv/2022/07/09/ronan-chardonneau-matomo-alternative-a-google-analytics/)
 - [Jonathan de Jong: The what, why &amp; how of code reviews](https://wordpress.tv/2022/07/08/jonathan-de-jong-the-what-why-how-of-code-reviews/)
-- [Protect your Website Visitors with Security Headers](https://wordpress.tv/2022/07/08/protect-your-website-visitors-with-security-headers/)
-- [Creating a paid newsletter subscription in WordPress](https://wordpress.tv/2022/07/08/creating-a-paid-newsletter-subscription-in-wordpress/)
+- [Rogier Lankhorst: Protect your Website Visitors with Security Headers](https://wordpress.tv/2022/07/08/protect-your-website-visitors-with-security-headers/)
+- [Laura Nelson: Creating a paid newsletter subscription in WordPress](https://wordpress.tv/2022/07/08/creating-a-paid-newsletter-subscription-in-wordpress/)
 - [Sofie Couwenbergh: How to create clear briefings for posts that’ll rank](https://wordpress.tv/2022/07/08/sofie-couwenbergh-how-to-create-clear-briefings-for-posts-thatll-rank/)
 - [My First Recipe Blog](https://wordpress.tv/2022/07/06/destiny-kanno-my-first-recipe-blog/)
 - [User Management](https://wordpress.tv/2022/07/06/user-management/)
@@ -316,9 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Rodolfo Melogli: Let’s build &lpar;and sell&rpar; an online course](https://wordpress.tv/2022/06/27/rodolfo-melogli-lets-build-and-sell-an-online-course/)
 - [Introdução a visualização em lista](https://wordpress.tv/2022/06/27/introducao-a-visualizacao-em-lista/)
 - [Sean Blakeley: The block pattern revolution](https://wordpress.tv/2022/06/27/sean-blakeley-the-block-pattern-revolution/)
-- [Live Studio: Takis Bouyouris interviewing WCEU Local Team: José Freitas and Marco Pereirinha](https://wordpress.tv/2022/06/27/live-studio-takis-bouyouris-interviewing-wceu-local-team-jose-freitas-and-marco-pereirinha/)
-- [Leo Postovoit: The Real Impact of Having Website Performance as a Mindset](https://wordpress.tv/2022/06/27/the-real-impact-of-having-website-performance-as-a-mindset/)
-- [Greg Ziolkowski: Level Up Block Building Skills](https://wordpress.tv/2022/06/26/greg-ziolkowski-level-up-block-building-skills/)
 <!-- WPTV:END -->
 
 ## Marketing
