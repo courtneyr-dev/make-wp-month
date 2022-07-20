@@ -269,6 +269,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Filter Hooks](https://wordpress.tv/2022/07/20/wordpress-filter-hooks/)
 - [Explore the Template Editor](https://wordpress.tv/2022/07/19/explore-the-template-editor/)
 - [The ABCs of Blogging: Part One](https://wordpress.tv/2022/07/19/the-abcs-of-blogging-part-one/)
 - [Horizontal Pyramid Gallery](https://wordpress.tv/2022/07/17/horizontal-pyramid-gallery/)
@@ -318,7 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Sabrina Zeidan, Juan Hernando, Jason Rouet, Evangelia Pappa: Live Studio: Evangelia Pappa interviewing WCEU Organisers: Sabrina Zeidan, Juan Hernando and Jason R](https://wordpress.tv/2022/06/30/sabrina-zeidan-juan-hernando-jason-rouet-evangelia-pappa-live-studio-evangelia-pappa-interviewing-wceu-organisers-sabrina-zeidan-juan-hernando-and-jason-r/)
 - [Milana Cap: Developer documentation – Block editor handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/30/milana-cap-developer-documentation-block-editor-handbook-onboarding-for-wordpress-documentation-team/)
 - [Milana Cap: Developer documentation – Themes handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/30/milana-cap-developer-documentation-themes-handbook-onboarding-for-wordpress-documentation-team/)
-- [Richard Midson: Is podcasting the future of WordPress?](https://wordpress.tv/2022/06/27/is-podcasting-the-future-of-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
