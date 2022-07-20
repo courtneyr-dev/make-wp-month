@@ -269,6 +269,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Explore the Template Editor](https://wordpress.tv/2022/07/19/explore-the-template-editor/)
 - [The ABCs of Blogging: Part One](https://wordpress.tv/2022/07/19/the-abcs-of-blogging-part-one/)
 - [Horizontal Pyramid Gallery](https://wordpress.tv/2022/07/17/horizontal-pyramid-gallery/)
 - [Matt Mullenweg, Josepha Haden: In Conversation](https://wordpress.tv/2022/07/17/matt-mullenweg-josepha-haden-in-conversation/)
@@ -318,7 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Milana Cap: Developer documentation – Block editor handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/30/milana-cap-developer-documentation-block-editor-handbook-onboarding-for-wordpress-documentation-team/)
 - [Milana Cap: Developer documentation – Themes handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/30/milana-cap-developer-documentation-themes-handbook-onboarding-for-wordpress-documentation-team/)
 - [Richard Midson: Is podcasting the future of WordPress?](https://wordpress.tv/2022/06/27/is-podcasting-the-future-of-wordpress/)
-- [Milan Ivanovic: Why we community?](https://wordpress.tv/2022/06/27/why-we-community/)
 <!-- WPTV:END -->
 
 ## Marketing
