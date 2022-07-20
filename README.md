@@ -269,6 +269,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Power Up With Free Wireframe Templates And Advanced Blocks](https://wordpress.tv/2022/07/20/power-up-with-free-wireframe-templates-and-advanced-blocks/)
+- [Your First Ecommerce Website – Part 1](https://wordpress.tv/2022/07/20/your-first-ecommerce-website-part-1/)
 - [WordPress Filter Hooks](https://wordpress.tv/2022/07/20/wordpress-filter-hooks/)
 - [Explore the Template Editor](https://wordpress.tv/2022/07/19/explore-the-template-editor/)
 - [The ABCs of Blogging: Part One](https://wordpress.tv/2022/07/19/the-abcs-of-blogging-part-one/)
@@ -317,8 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Nate Finch: Using WordPress as an API](https://wordpress.tv/2022/07/01/nate-finch-using-wordpress-as-an-api/)
 - [Using Schema with WordPress Theme.json](https://wordpress.tv/2022/06/30/using-schema-with-wordpress-theme-json/)
 - [Sabrina Zeidan, Juan Hernando, Jason Rouet, Evangelia Pappa: Live Studio: Evangelia Pappa interviewing WCEU Organisers: Sabrina Zeidan, Juan Hernando and Jason R](https://wordpress.tv/2022/06/30/sabrina-zeidan-juan-hernando-jason-rouet-evangelia-pappa-live-studio-evangelia-pappa-interviewing-wceu-organisers-sabrina-zeidan-juan-hernando-and-jason-r/)
-- [Milana Cap: Developer documentation – Block editor handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/30/milana-cap-developer-documentation-block-editor-handbook-onboarding-for-wordpress-documentation-team/)
-- [Milana Cap: Developer documentation – Themes handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/30/milana-cap-developer-documentation-themes-handbook-onboarding-for-wordpress-documentation-team/)
 <!-- WPTV:END -->
 
 ## Marketing
