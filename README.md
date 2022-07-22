@@ -269,6 +269,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Bernhard Kau, Taeke Reijenga, Sjoerd Blom: Live Studio, Sjoerd Blom interviewing WCEU Global Leads](https://wordpress.tv/2022/07/22/sjoerd-blom-interviewing-wceu-global-leads/)
+- [Paul Halfpenny, Imran Sayed, Evan Mullins, Ryan Welcher, Juanma Garrido: Lightning talks](https://wordpress.tv/2022/07/22/paul-halfpenny-imran-sayed-evan-mullins-ryan-welcher-juanma-garrido-lightning-talks/)
+- [Closing remarks](https://wordpress.tv/2022/07/22/closing-remarks-2/)
+- [Maja Benke: Accessibility for dyslexia](https://wordpress.tv/2022/07/22/maja-benke-accessibility-for-dyslexia/)
 - [Let’s code! Creating your first WordPress Plugin](https://wordpress.tv/2022/07/22/lets-code-creating-your-first-wordpress-plugin/)
 - [Ivan Popov: How headless WordPress benefits enterprises?](https://wordpress.tv/2022/07/22/ivan-popov-how-headless-wordpress-benefits-enterprises/)
 - [Tammie Lister: Growing the WordPress design system](https://wordpress.tv/2022/07/21/tammie-lister-growing-the-wordpress-design-system/)
@@ -315,10 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Sofie Couwenbergh: How to create clear briefings for posts that’ll rank](https://wordpress.tv/2022/07/08/sofie-couwenbergh-how-to-create-clear-briefings-for-posts-thatll-rank/)
 - [My First Recipe Blog](https://wordpress.tv/2022/07/06/destiny-kanno-my-first-recipe-blog/)
 - [User Management](https://wordpress.tv/2022/07/06/user-management/)
-- [Design With Me: Create a WordPress Blog of Your Own](https://wordpress.tv/2022/07/06/design-with-me-create-a-wordpress-blog-of-your-own/)
-- [Yvette Sonneveld, Santana Inniss: Live Studio: Sjoerd Blom interviewing WCEU Attendees: Yvette Sonneveld and Santana Inniss](https://wordpress.tv/2022/07/03/yvette-sonneveld-santana-inniss-live-studio-sjoerd-blom-interviewing-wceu-attendees-yvette-sonneveld-and-santana-inniss/)
-- [Live Studio: Wendie Huis in ‘t Veld interviewing WCEU Speaker Piccia Neri](https://wordpress.tv/2022/07/03/live-studio-wendie-huis-in-t-veld-interviewing-wceu-speaker-piccia-neri/)
-- [Live Studio. Evangelia Pappa interviewing Serbian Community: Nemanja Cimbaljevic, Milana Cap and Mil](https://wordpress.tv/2022/07/03/live-studio-serbian-community/)
 <!-- WPTV:END -->
 
 ## Marketing
