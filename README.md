@@ -269,6 +269,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Nick Diego: Curating the Editor Experience](https://wordpress.tv/2022/07/22/nick-diego-curating-the-editor-experience/)
 - [Devin Walker, Joshua Strebel, Marieke van de Rakt, Shane Pearlman, Taeke Reijenga: Acquisitions in WordPress](https://wordpress.tv/2022/07/22/devin-walker-joshua-strebel-marieke-van-de-rakt-shane-pearlman-taeke-reijenga-acquisitions-in-wordpress/)
 - [Bernhard Kau, Taeke Reijenga, Sjoerd Blom: Live Studio, Sjoerd Blom interviewing WCEU Global Leads](https://wordpress.tv/2022/07/22/sjoerd-blom-interviewing-wceu-global-leads/)
 - [Paul Halfpenny, Imran Sayed, Evan Mullins, Ryan Welcher, Juanma Garrido: Lightning talks](https://wordpress.tv/2022/07/22/paul-halfpenny-imran-sayed-evan-mullins-ryan-welcher-juanma-garrido-lightning-talks/)
@@ -318,7 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Rogier Lankhorst: Protect your Website Visitors with Security Headers](https://wordpress.tv/2022/07/08/protect-your-website-visitors-with-security-headers/)
 - [Laura Nelson: Creating a paid newsletter subscription in WordPress](https://wordpress.tv/2022/07/08/creating-a-paid-newsletter-subscription-in-wordpress/)
 - [Sofie Couwenbergh: How to create clear briefings for posts that’ll rank](https://wordpress.tv/2022/07/08/sofie-couwenbergh-how-to-create-clear-briefings-for-posts-thatll-rank/)
-- [My First Recipe Blog](https://wordpress.tv/2022/07/06/destiny-kanno-my-first-recipe-blog/)
 <!-- WPTV:END -->
 
 ## Marketing
