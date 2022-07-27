@@ -269,6 +269,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mel Choyce: Getting creative with block patterns](https://wordpress.tv/2022/07/27/mel-choyce-getting-creative-with-block-patterns/)
 - [Joe Campbell: The journey of becoming More Jersey](https://wordpress.tv/2022/07/26/joe-campbell-the-journey-of-becoming-more-jersey/)
 - [Luis Miguel Climent: ¿Tienes que hablar en público? Te doy algunos trucos](https://wordpress.tv/2022/07/25/luis-miguel-climent-tienes-que-hablar-en-publico-te-doy-algunos-trucos/)
 - [Matt Mullenweg, Josepha Haden: In Conversation](https://wordpress.tv/2022/07/25/matt-mullenweg-josepha-haden-in-conversation/)
@@ -318,7 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code! Creating your first WordPress Child Theme](https://wordpress.tv/2022/07/11/lets-code-creating-your-first-wordpress-child-theme/)
 - [Udo Meisen: Datenschutz Update 2022](https://wordpress.tv/2022/07/10/udo-meisen-datenschutz-update-2022/)
 - [Ronan Chardonneau: Matomo alternative à Google Analytics ?](https://wordpress.tv/2022/07/09/ronan-chardonneau-matomo-alternative-a-google-analytics/)
-- [Jonathan de Jong: The what, why &amp; how of code reviews](https://wordpress.tv/2022/07/08/jonathan-de-jong-the-what-why-how-of-code-reviews/)
 <!-- WPTV:END -->
 
 ## Marketing
