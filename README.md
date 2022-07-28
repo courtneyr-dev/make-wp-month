@@ -269,6 +269,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [JuanKa Díaz, José Conti, Nora Ferreirós, Núria Ramoneda: WP Barcelona Meetup. Nueva localización, nueva temporada](https://wordpress.tv/2022/07/28/juanka-diaz-jose-conti-nora-ferreiros-nuria-ramoneda-wp-barcelona-meetup-nueva-localizacion-nueva-temporada/)
 - [Building a home page with a block theme](https://wordpress.tv/2022/07/27/building-a-home-page-with-a-block-theme/)
 - [The ABCs of Blogging: Advanced Blogging &lpar;Part Two&rpar;](https://wordpress.tv/2022/07/27/the-abcs-of-blogging-advanced-blogging-part-two/)
 - [Styling your site with global styles](https://wordpress.tv/2022/07/27/styling-your-site-with-global-styles/)
@@ -318,7 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Micah Wood: Automated Testing Made Easy](https://wordpress.tv/2022/07/13/automated-testing-made-easy/)
 - [Daisy Olsen: Build your first block theme](https://wordpress.tv/2022/07/13/daisy-olsen-build-your-first-block-theme/)
 - [WordPress Action Hooks](https://wordpress.tv/2022/07/12/wordpress-action-hooks/)
-- [Isotta Peira: Inclusività agli eventi di WordPress](https://wordpress.tv/2022/07/11/isotta-peira-inclusivita-agli-eventi-di-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
