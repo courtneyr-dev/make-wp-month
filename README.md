@@ -269,6 +269,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The ABCs of Blogging: Advanced Blogging &lpar;Part Two&rpar;](https://wordpress.tv/2022/07/27/the-abcs-of-blogging-advanced-blogging-part-two/)
 - [Styling your site with global styles](https://wordpress.tv/2022/07/27/styling-your-site-with-global-styles/)
 - [Mel Choyce: Getting creative with block patterns](https://wordpress.tv/2022/07/27/mel-choyce-getting-creative-with-block-patterns/)
 - [Joe Campbell: The journey of becoming More Jersey](https://wordpress.tv/2022/07/26/joe-campbell-the-journey-of-becoming-more-jersey/)
@@ -318,7 +319,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Action Hooks](https://wordpress.tv/2022/07/12/wordpress-action-hooks/)
 - [Isotta Peira: Inclusività agli eventi di WordPress](https://wordpress.tv/2022/07/11/isotta-peira-inclusivita-agli-eventi-di-wordpress/)
 - [Let’s code! Creating your first WordPress Child Theme](https://wordpress.tv/2022/07/11/lets-code-creating-your-first-wordpress-child-theme/)
-- [Udo Meisen: Datenschutz Update 2022](https://wordpress.tv/2022/07/10/udo-meisen-datenschutz-update-2022/)
 <!-- WPTV:END -->
 
 ## Marketing
